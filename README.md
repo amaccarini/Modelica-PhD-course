@@ -8,7 +8,7 @@ seo:
   name: Just the Class
 ---
 
-# PhD course in "Object-oriented modeling and simulation of building energy systems in Modelica"
+# PhD course
 {: .fs-7 .mb-2 }
 {{ site.tagline }}
 {: .fs-6 .fw-300 }

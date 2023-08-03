@@ -23,6 +23,9 @@ The course is organized in three days. In the first day, the course gives a basi
 ### Location:
 Copenhagen, Denmark (Aalborg University campus - A.C. Meyers Vænge 15, 2450 København)
 
+### Price:
+The course is free for students and academics (e.g. post-docs, researhcers, professors). If you are from the industry, the fee for participating in the course is 1000 EUR.
+
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,

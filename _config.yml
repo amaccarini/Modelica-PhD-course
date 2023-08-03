@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Just the Class
 logo: /assets/images/icons8-system-64.png
-favicon_ico: /assets/images/icons8-system-64.png
+favicon_ico: /assets/images/icons8-system-64_v2.png
 tagline: Object-oriented modeling and simulation of building energy systems with Modelica
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Aalborg University

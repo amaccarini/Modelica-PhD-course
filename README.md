@@ -1,6 +1,6 @@
 ---
 layout: home
-logo: /assets/images/kevin.jpg
+logo: /assets/images/HeatingSystem.png
 nav_exclude: true
 permalink: /:path/
 seo:

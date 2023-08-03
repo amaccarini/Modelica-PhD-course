@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+logo: /assets/images/kevin.jpg
 nav_exclude: true
 permalink: /:path/
 seo:

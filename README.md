@@ -13,10 +13,6 @@ seo:
 {{ site.tagline }}
 {: .fs-6 .fw-300 }
 
-Due to climate change, more stringent building energy standards are enforced to reduce building primary energy use. This causes a shift towards the use of more advanced and complex heating, ventilation and air conditioning (HVAC) systems in buildings, which often include renewable energy sources.
-
-Building energy simulation programs are powerful tools that have been increasingly used by engineers and researchers for the design, analysis and optimization of HVAC systems in buildings. However, today’s programs have difficulties to handle the challenges posed by the complexity of future HVAC systems.
-
 This course aims to present latest developments in modeling and simulation of HVAC systems based on Modelica modeling language. Modelica is a promising open-source language that features ease of use, visual design of models with combination of Lego-like predefined blocks, ability to define model libraries with reusable components, and support for modeling and simulation of complex applications involving parts from different engineering domains.
 
 The course is organized in three days. In the first day, the course gives a basic introduction of Modelica fundamentals by introducing object-oriented and equation-based modeling. In the second day, the concepts previously learnt are used to develop a model of a simple house with a radiator heating system. In the third day, a more advanced Modelica model consisting of an air-conditioning system for office buildings is developed.

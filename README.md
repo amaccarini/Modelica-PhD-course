@@ -21,7 +21,11 @@ This course aims to present latest developments in modeling and simulation of HV
 
 The course is organized in three days. In the first day, the course gives a basic introduction of Modelica fundamentals by introducing object-oriented and equation-based modeling. In the second day, the concepts previously learnt are used to develop a model of a simple house with a radiator heating system. In the third day, a more advanced Modelica model consisting of an air-conditioning system for office buildings is developed.
 
- 
+### Dates:
+18-19-20 October 2023
+
+### Location:
+Copenhagen, Denmark (Aalborg University campus - A.C. Meyers Vænge 15, 2450 København)
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),

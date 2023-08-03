@@ -21,7 +21,7 @@ The course is organized in three days. In the first day, the course gives a basi
 18-19-20 October 2023
 
 ### Location:
-Copenhagen, Denmark (Aalborg University campus - A.C. Meyers Vænge 15, 2450 København)
+Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers Vænge 15, 2450 København](https://www.google.com/maps/place/Aalborg+University+Copenhagen/@55.6508514,12.5419012,15z/data=!4m6!3m5!1s0x465254803001cc61:0xe7e0b8f43d4f43e7!8m2!3d55.6508514!4d12.5419012!16s%2Fm%2F0hhqstv?entry=ttu))
 
 ### Price:
 The course is free for students and academics (e.g. post-docs, researhcers, professors). If you are from the industry, the fee for participating in the course is 1000 EUR.

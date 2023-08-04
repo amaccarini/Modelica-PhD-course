@@ -1,5 +1,5 @@
 ---
-title: October 18
+title: Wednesday, October 18
 ---
 
 09:00-09:30 

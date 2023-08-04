@@ -8,7 +8,7 @@ seo:
   name: Just the Class
 ---
 
-# PhD course
+# Modelica-based simulation of building energy systems
 {: .fs-7 .mb-2 }
 {{ site.tagline }}
 {: .fs-6 .fw-300 }

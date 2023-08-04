@@ -3,10 +3,13 @@ title: October 18
 ---
 
 09:00-09:30 
-: **Free**{: .label .label-green } **Welcome coffee**
+: **Social**{: .label .label-yellow } **Welcome coffee**
 
 09:30-10:00 
-: **Intro**{: .label .label-purple } **Overview of the course and software installation**
+: **Intro**{: .label .label-purple } **Overview of the course**
+: - Short presentation of instructors and participants
+: - Software installation
+: - Practical info
 
 10:00-10:15 
 : **Free**{: .label .label-green } **Coffee break**
@@ -18,7 +21,7 @@ title: October 18
 : - A first intro to Modelica
 
 11:45-13:00 
-: **Launch break**{: .label .label-green } **Lunch**
+: **Free**{: .label .label-green } **Lunch**
 
 13:00-14:15 
 : **Session 2**{: .label .label-purple } **Dymola overview and workflow**
@@ -39,7 +42,7 @@ title: October 18
 : **Exercise**{: .label .label-red } Getting physical: heat transfer by convection
 
 16:00-16:30 
-: **Session 4**{: .label .label-purple } **Guest lecture: Overview of the Modelica Buildings Library (by Michael Wetter)**
+: **Session 4**{: .label .label-purple } **Overview of the Modelica Buildings Library (by Michael Wetter)**
 
 
 

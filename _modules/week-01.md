@@ -7,8 +7,8 @@ title: October 18
 
 09:30-10:00 
 : **Intro**{: .label .label-purple } Overview of the course and software installation
-:part I
-:part II
+: part I
+: part II
 
 10:00-10:15 
 : **Free**{: .label .label-green } Coffee break

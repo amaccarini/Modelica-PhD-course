@@ -6,6 +6,15 @@ title: October 18
 : **Free**{: .label .label-green } Welcome coffee
 
 09:30-10:00 
-: **Lecture**{: .label .label-purple } Introduction to the course and software installation
+: **Intro**{: .label .label-purple } Overview of the course and software installation
+:part I
+:part II
+
+10:00-10:15 
+: **Free**{: .label .label-green } Coffee break
+
+10:15-11:145 
+: **Session 1**{: .label .label-purple } Introduction to system modeling
+
 
 

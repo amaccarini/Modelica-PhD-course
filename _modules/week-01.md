@@ -1,14 +1,12 @@
 ---
-title: Introduction to Java
+title: October 18
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+09:00-09:30
+: Java & Git
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+09:30-09:40
+: Welcome{: .label .label-purple }
 
 Sep 30
 : [Variables & Objects](#)

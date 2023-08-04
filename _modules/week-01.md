@@ -39,7 +39,6 @@ title: October 18
 : - Variable and parameters
 : - Equation-based components and state variables
 : **Exercise**{: .label .label-red } "Hello World" in Modelica
-: **Exercise**{: .label .label-red } Getting physical: heat transfer by convection
 
 16:00-16:30 
 : **Session 4**{: .label .label-purple } **Overview of the Modelica Buildings Library (by Michael Wetter)**

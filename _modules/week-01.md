@@ -28,7 +28,7 @@ title: Wednesday, October 18
 : - Overview of Dymola
 : - Creating new models / Settings parameters / Organizing models in packages
 : - Dymola workflow: check, translate, simulate, plot
-: **Exercise**{: .label .label-red } Develop and simulate your first thermodynamic model
+: **Exercise**{: .label .label-red } Develop and simulate your first model
 
 14:15-14:45 
 : **Free**{: .label .label-green } **Coffee break**

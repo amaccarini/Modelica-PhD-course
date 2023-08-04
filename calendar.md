@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agena
+title: Agenda
 description: Listing of course modules and topics.
 ---
 

@@ -29,6 +29,12 @@ Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers VÃ¦nge 15, 2450 KÃ
 ### Fee:
 The course is free for students and academics (e.g. post-docs, researchers). If you are from the industry, the fee for participating in the course is 1000 EUR.
 
+### Prerequisites:
+- Basic knowledge of programming (any language)
+- Basic knowledge of building simulation programs
+- Knowledge of thermo-fluid dynamics and heat transfer mechanisms in buildings
+
+
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,

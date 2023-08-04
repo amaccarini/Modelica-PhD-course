@@ -15,7 +15,7 @@ title: Wednesday, October 18
 : **Free**{: .label .label-green } **Coffee break**
 
 10:15-11:45 
-: **Session 1**{: .label .label-purple } **Introduction to system modeling**
+: **Lecture**{: .label .label-purple } **Session 1 / Introduction to system modeling**
 : - Systems, models and simulation
 : - Building performance simulation tools
 : - A first intro to Modelica
@@ -24,7 +24,7 @@ title: Wednesday, October 18
 : **Free**{: .label .label-green } **Lunch**
 
 13:00-14:15 
-: **Session 2**{: .label .label-purple } **Dymola overview and workflow**
+: **Lecture**{: .label .label-purple } **Sessions 2 / Dymola overview and workflow**
 : - Overview of Dymola
 : - Creating new models / Settings parameters / Organizing models in packages
 : - Dymola workflow: check, translate, simulate, plot
@@ -34,14 +34,14 @@ title: Wednesday, October 18
 : **Free**{: .label .label-green } **Coffee break**
 
 14:45-16:00 
-: **Session 3**{: .label .label-purple } **Modelica overview**
+: **Lecture**{: .label .label-purple } **Session 3 / Modelica overview**
 : - Text editor
 : - Variable and parameters
 : - Equation-based components and state variables
 : **Exercise**{: .label .label-red } "Hello World" in Modelica
 
 16:00-16:30 
-: **Session 4**{: .label .label-purple } **Overview of the Modelica Buildings Library (by Michael Wetter)**
+: **Lecture**{: .label .label-purple } **Session 4 / The Modelica Buildings Library (by Michael Wetter)**
 
 
 

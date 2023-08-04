@@ -18,7 +18,7 @@ This course aims to present latest developments in modeling and simulation of HV
 The course is organized in three days. In the first day, the course gives a basic introduction of Modelica fundamentals by introducing object-oriented and equation-based modeling. In the second day, the concepts previously learnt are used to develop a model of a simple house with a radiator heating system. In the third day, a more advanced Modelica model consisting of an air-conditioning system for office buildings is developed.
 
 ### Target audience:
-The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students and academics (e.g. post-docs, professors) and professionals from industry are also welcome.
+The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
 
 ### Dates:
 18-19-20 October 2023

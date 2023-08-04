@@ -16,7 +16,7 @@
 title: Just the Class
 logo: /assets/images/HeatingSystem.png
 favicon_ico: /assets/images/icons8-system-64_v2.png
-tagline: PhD course at Aalborg University - Department of the Built Environment
+tagline: PhD course at Aalborg University
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Aalborg University
 baseurl: '/ModelicaPhDcourse' # the subpath of your site, e.g. /blog

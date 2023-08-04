@@ -2,7 +2,7 @@
 title: Basic Data Structures
 ---
 
-Oct 5 aaaaaaaaaaaaaaaa
+Oct 5aaaaaaaaaaaaaaaa
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 

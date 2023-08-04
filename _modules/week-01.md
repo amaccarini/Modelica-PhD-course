@@ -38,12 +38,8 @@ title: October 18
 : **Exercise**{: .label .label-red } "Hello World" in Modelica
 : **Exercise**{: .label .label-red } Getting physical: heat transfer by convection
 
-14:45-16:00 
-: **Session 2**{: .label .label-purple } **Dymola overview and workflow**
-: - Overview of Dymola
-: - Creating new models / Settings parameters / Organizing models in packages
-: - Dymola workflow: check, translate, simulate, plot
-: **Exercise**{: .label .label-red } Develop and simulate your first thermodynamic model
+16:00-16:30 
+: **Session 4**{: .label .label-purple } **Guest lecture: Overview of the Modelica Buildings Library (by Michael Wetter)**
 
 
 

@@ -13,7 +13,7 @@ title: October 18
 10:00-10:15 
 : **Free**{: .label .label-green } Coffee break
 
-10:15-11:145 
+10:15-11:45 
 : **Session 1**{: .label .label-purple } Introduction to system modeling
 
 

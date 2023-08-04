@@ -2,7 +2,7 @@
 title: October 18
 ---
 
-09:00-09:30&nbsp;
+09:00aaaaaaaaaaaaaaaaaaaaaaaaaaa
 : **Free**{: .label .label-green } Welcome coffee
 
 09:30-09:40

@@ -2,7 +2,9 @@
 title: October 18
 ---
 
-09:00 &hyphen; 09:30
+<html>
+ 09:00-09:30
+</html>
 : **Free**{: .label .label-green } Welcome coffee
 
 09:30-09:40

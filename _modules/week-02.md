@@ -17,25 +17,20 @@ title: Thursday, October 19
 : - Building envelope (walls and windows)
 : - Weather boundary conditions
 
-11:45-13:00 
+12:15-13:15 
 : **Free**{: .label .label-green } **Lunch**
 
-13:00-14:15 
+13:15-14:45 
 : **Hands-on training**{: .label .label-purple } **Session 7 / Heating system**
 : - Radiator
 : - Sensors and controls
 
-14:15-14:45 
+14:45-15:15 
 : **Free**{: .label .label-green } **Coffee break**
 
-14:45-16:00 
-: **Session 3**{: .label .label-purple } **Modelica overview**
-: - Text editor
-: - Variable and parameters
-: - Equation-based components and state variables
-: **Exercise**{: .label .label-red } "Hello World" in Modelica
-: **Exercise**{: .label .label-red } Getting physical: heat transfer by convection
-
-16:00-16:30 
-: **Session 4**{: .label .label-purple } **Overview of the Modelica Buildings Library (by Michael Wetter)**
+15:15-17:00 
+: **Hands-on training**{: .label .label-purple } **Session 8 / Air-based cooling system**
+: - Detailed thermal zone
+: - Fans and cooling machine
+: - Control system
 

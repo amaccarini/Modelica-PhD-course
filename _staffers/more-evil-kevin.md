@@ -1,9 +1,8 @@
 ---
-name: More Evil Kevin
-role: Teaching Assistant
+name: Alessandro Maccarini
 email: me@example.com
 website: https://kevinl.info
-photo: kevin.jpg
+photo: photo_amac_v2.jpg
 ---
 
 I like teaching Computer Science!

@@ -21,7 +21,7 @@ The course is organized in three days. In the first day, the course gives a basi
 The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
 
 <div style="background-color:rgba(250, 230, 7, 1);">
-> this is a note 1
+  > ciao
 </div>
 
 ### Dates:

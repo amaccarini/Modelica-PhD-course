@@ -13,8 +13,14 @@ seo:
 {{ site.tagline }}
 {: .fs-6 .fw-300 }
 
-> **Note**
-> This is a note
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
 
 This course aims to present latest developments in modeling and simulation of HVAC systems based on Modelica modeling language. Modelica is a promising open-source language that features ease of use, visual design of models with combination of Lego-like predefined blocks, ability to define model libraries with reusable components, and support for modeling and simulation of complex applications involving parts from different engineering domains.
 

@@ -1,5 +1,6 @@
 ---
 layout: home
+title: home
 logo: /assets/images/HeatingSystem.png
 nav_exclude: true
 permalink: /:path/

@@ -94,6 +94,7 @@ blockquote.success-title>p:last-child {
 }
 </style>
 
+<p class="success">In the Schedule of Classes, this course has both a discussion section (DI) and a lab section (LA). We are using the listed lab section for discussion, and we are not using the discussion section listed on WebReg for anything. In short, ignore what WebReg says and follow the information above.</p>
 
 ### Dates:
 18-19-20 October 2023 (between 9:00-17:00 CET)

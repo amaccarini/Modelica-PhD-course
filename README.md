@@ -21,7 +21,7 @@ The course is organized in three days. In the first day, the course gives a basi
 The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
 
 ### Dates:
-18-19-20 October 2023
+18-19-20 October 2023 (between 9:00-17:00 CET)
 
 ### Location:
 Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers Vænge 15, 2450 København](https://www.google.com/maps/place/Aalborg+University+Copenhagen/@55.6508514,12.5419012,15z/data=!4m6!3m5!1s0x465254803001cc61:0xe7e0b8f43d4f43e7!8m2!3d55.6508514!4d12.5419012!16s%2Fm%2F0hhqstv?entry=ttu))

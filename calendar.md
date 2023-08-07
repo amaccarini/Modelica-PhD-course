@@ -4,7 +4,7 @@ title: Agenda
 description: Listing of course modules and topics.
 ---
 
-# Agenda
+# 📅 Agenda
 
 {% for module in site.modules %}
 {{ module }}

@@ -1,8 +1,8 @@
 ---
-name: Evil Kevin
+name: Michael Wetter
 role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+email: MWetter@lbl.gov
+website: https://eta.lbl.gov/people/michael-wetter
 photo: kevin.jpg
 ---
 

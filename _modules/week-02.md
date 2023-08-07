@@ -3,7 +3,7 @@ title: Thursday, October 19
 ---
 
 09:30-10:45
-: **Session 5**{: .label .label-purple } **Heat transfer in Modelica**
+: **Lecture**{: .label .label-purple } **Session 5 / Heat transfer in Modelica**
 : - Transient convective heat transfer (solving ODes)
 : - 1D discretization of heat conduction (solving PDEs)
 : **Exercise**{: .label .label-red } Cooling an object with air
@@ -13,19 +13,17 @@ title: Thursday, October 19
 : **Free**{: .label .label-green } **Coffee break**
 
 11:00-12:15 
-: **Session 6**{: .label .label-purple } **Hands-on traning: Modeling a simple house**
-: - Walls
-: - Windows and solar radiation
+: **Hands-on training**{: .label .label-purple } **Session 6 / Modeling a simple house**
+: - Building envelope (walls and windows)
+: - Weather boundary conditions
 
 11:45-13:00 
 : **Free**{: .label .label-green } **Lunch**
 
 13:00-14:15 
-: **Session 2**{: .label .label-purple } **Dymola overview and workflow**
-: - Overview of Dymola
-: - Creating new models / Settings parameters / Organizing models in packages
-: - Dymola workflow: check, translate, simulate, plot
-: **Exercise**{: .label .label-red } Develop and simulate your first thermodynamic model
+: **Hands-on training**{: .label .label-purple } **Session 7 / Heating system**
+: - Radiator
+: - Sensors and controls
 
 14:15-14:45 
 : **Free**{: .label .label-green } **Coffee break**

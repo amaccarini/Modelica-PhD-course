@@ -1,13 +1,3 @@
----
-layout: home
-logo: /assets/images/HeatingSystem.png
-nav_exclude: true
-permalink: /:path/
-seo:
-  type: Course
-  name: Just the Class
----
-
 # Modelica-based simulation of building energy systems
 {: .fs-7 .mb-2 }
 {{ site.tagline }}

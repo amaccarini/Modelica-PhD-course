@@ -3,6 +3,7 @@ layout: home
 title: home
 logo: /assets/images/HeatingSystem.png
 nav_exclude: false
+nav_order: 1
 permalink: /:path/
 seo:
   type: Course

@@ -13,7 +13,7 @@ seo:
 {{ site.tagline }}
 {: .fs-6 .fw-300 }
 
-> [!NOTE]  
+> [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]  

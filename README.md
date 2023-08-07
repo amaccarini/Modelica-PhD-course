@@ -20,6 +20,10 @@ The course is organized in three days. In the first day, the course gives a basi
 ### Target audience:
 The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
 
+<div style="background-color:rgba(250, 230, 7, 1);">
+> this is a note 1
+</div>
+
 ### Dates:
 18-19-20 October 2023 (between 9:00-17:00 CET)
 

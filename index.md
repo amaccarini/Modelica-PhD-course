@@ -2,7 +2,7 @@
 layout: home
 title: home
 logo: /assets/images/HeatingSystem.png
-nav_exclude: true
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course

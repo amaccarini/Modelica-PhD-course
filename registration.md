@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Registration
+title: 👨 Registration
 description: Info about registration.
 ---
 

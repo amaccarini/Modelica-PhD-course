@@ -13,9 +13,9 @@ seo:
 {{ site.tagline }}
 {: .fs-6 .fw-300 }
 
-This course aims to present latest developments in modeling and simulation of HVAC systems based on Modelica modeling language. Modelica is a promising open-source language that features ease of use, visual design of models with combination of Lego-like predefined blocks, ability to define model libraries with reusable components, and support for modeling and simulation of complex applications involving parts from different engineering domains.
+This course aims to present latest developments in modeling and simulation of building and district energy systems based on Modelica modeling language. Modelica is a promising open-source language that features ease of use, visual design of models with combination of Lego-like predefined blocks, ability to define model libraries with reusable components, and support for modeling and simulation of complex applications involving parts from different engineering domains.
 
-The course is organized in three days. In the first day, the course gives a basic introduction of Modelica fundamentals by introducing object-oriented and equation-based modeling. In the second day, the concepts previously learnt are used to develop a model of a simple house with a radiator heating system. In the third day, a more advanced Modelica model consisting of an air-conditioning system for office buildings is developed.
+The course is organized in three days. In the first day, the course gives a basic introduction of Modelica fundamentals by introducing object-oriented and equation-based modeling. In the second day, the concepts previously learnt are used to develop a building model equipped with a radiator system and an air-based cooling system. In the third day, a district heating system model will be developed by connecting substations, piping network and central plant.
 
 ### Target audience:
 The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
@@ -97,10 +97,13 @@ blockquote.note-title>p:last-child {
 ### Dates:
 18-19-20 October 2023 (between 9:00-17:00 CET)
 
+### Max. number of participants:
+20
+
 ### Location:
 Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers Vænge 15, 2450 København](https://www.google.com/maps/place/Aalborg+University+Copenhagen/@55.6508514,12.5419012,15z/data=!4m6!3m5!1s0x465254803001cc61:0xe7e0b8f43d4f43e7!8m2!3d55.6508514!4d12.5419012!16s%2Fm%2F0hhqstv?entry=ttu))
 
-<p class="note">The course is designed for <strong>in-person participation</strong>. However, a limited number of seats will be available for on-line participation. For more info about on-line participation, please see here.</p>
+<p class="note">The course is designed for <strong>in-person participation</strong>. However, a limited number of seats will be made available for on-line participation. For more info about registration and on-line participation, please see here.</p>
 
 ### Fee:
 The course is free for students and academics (e.g. post-docs, researchers). If you are from the industry, the fee for participating in the course is 1000 EUR.

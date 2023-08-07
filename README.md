@@ -17,6 +17,9 @@ This course aims to present latest developments in modeling and simulation of bu
 
 The course is organized in three days. In the first day, the course gives a basic introduction of Modelica fundamentals by introducing object-oriented and equation-based modeling. In the second day, the concepts previously learnt are used to develop a building model equipped with a radiator system and an air-based cooling system. In the third day, a district heating system model will be developed by connecting substations, piping network and central plant.
 
+{: .warning }
+> This website documents the features of the current `main` branch of the Just the Docs theme. 
+
 Teaching will be provided as a mix of lecture presentations, hands-on trainings, simulation exercises and discussions.
 
 ### Target audience:

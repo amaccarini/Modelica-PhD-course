@@ -94,16 +94,13 @@ blockquote.note-title>p:last-child {
 }
 </style>
 
-<p class="note">In the Schedule of Classes, this course has both a discussion section (DI) and a lab section (LA). We are using the listed lab section for discussion, and we are not using the discussion section listed on WebReg for anything. In short, ignore what WebReg says and follow the information above.</p>
-
 ### Dates:
 18-19-20 October 2023 (between 9:00-17:00 CET)
 
 ### Location:
 Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers Vænge 15, 2450 København](https://www.google.com/maps/place/Aalborg+University+Copenhagen/@55.6508514,12.5419012,15z/data=!4m6!3m5!1s0x465254803001cc61:0xe7e0b8f43d4f43e7!8m2!3d55.6508514!4d12.5419012!16s%2Fm%2F0hhqstv?entry=ttu))
 
-> **Note**
-> The course is designed for in-person participation. However, a limited number of seats will be available for on-line participation. For more info about on-line participation, please see here
+<p class="note">The course is designed for in-person participation. However, a limited number of seats will be available for on-line participation. For more info about on-line participation, please see here.</p>
 
 ### Fee:
 The course is free for students and academics (e.g. post-docs, researchers). If you are from the industry, the fee for participating in the course is 1000 EUR.

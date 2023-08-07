@@ -21,17 +21,17 @@ The course is organized in three days. In the first day, the course gives a basi
 The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
 
 <style>
-p.success,blockquote.success {
-    background: rgba(65,214,147,0.2);
-    border-left: 4px solid #026e57;
+p.note,blockquote.note {
+    background: rgba(255,235,130,0.2);
+    border-left: 4px solid #e7af06;
     border-radius: 4px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
     padding: .8rem
 }
 
-p.success::before,blockquote.success::before {
-    color: #026e57;
-    content: "";
+p.note::before,blockquote.note::before {
+    color: #e7af06;
+    content: "Note";
     display: block;
     font-weight: bold;
     text-transform: uppercase;
@@ -39,8 +39,8 @@ p.success::before,blockquote.success::before {
     padding-bottom: .125rem
 }
 
-p.success>.success-title,blockquote.success>.success-title {
-    color: #026e57;
+p.note>.note-title,blockquote.note>.note-title {
+    color: #e7af06;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
@@ -48,18 +48,18 @@ p.success>.success-title,blockquote.success>.success-title {
     padding-bottom: .125rem
 }
 
-p.success-title,blockquote.success-title {
-    background: rgba(65,214,147,0.2);
-    border-left: 4px solid #026e57;
+p.note-title,blockquote.note-title {
+    background: rgba(255,235,130,0.2);
+    border-left: 4px solid #e7af06;
     border-radius: 4px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
     padding: .8rem
 }
 
-p.success-title>p:first-child,blockquote.success-title>p:first-child {
+p.note-title>p:first-child,blockquote.note-title>p:first-child {
     margin-top: 0;
     margin-bottom: 0;
-    color: #026e57;
+    color: #e7af06;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
@@ -67,34 +67,34 @@ p.success-title>p:first-child,blockquote.success-title>p:first-child {
     padding-bottom: .125rem
 }
 
-blockquote.success {
+blockquote.note {
     margin-left: 0;
     margin-right: 0
 }
 
-blockquote.success>p:first-child {
+blockquote.note>p:first-child {
     margin-top: 0
 }
 
-blockquote.success>p:last-child {
+blockquote.note>p:last-child {
     margin-bottom: 0
 }
 
-blockquote.success-title {
+blockquote.note-title {
     margin-left: 0;
     margin-right: 0
 }
 
-blockquote.success-title>p:nth-child(2) {
+blockquote.note-title>p:nth-child(2) {
     margin-top: 0
 }
 
-blockquote.success-title>p:last-child {
+blockquote.note-title>p:last-child {
     margin-bottom: 0
 }
 </style>
 
-<p class="success">In the Schedule of Classes, this course has both a discussion section (DI) and a lab section (LA). We are using the listed lab section for discussion, and we are not using the discussion section listed on WebReg for anything. In short, ignore what WebReg says and follow the information above.</p>
+<p class="note">In the Schedule of Classes, this course has both a discussion section (DI) and a lab section (LA). We are using the listed lab section for discussion, and we are not using the discussion section listed on WebReg for anything. In short, ignore what WebReg says and follow the information above.</p>
 
 ### Dates:
 18-19-20 October 2023 (between 9:00-17:00 CET)

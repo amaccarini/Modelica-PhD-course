@@ -20,9 +20,80 @@ The course is organized in three days. In the first day, the course gives a basi
 ### Target audience:
 The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
 
-<div style="background-color:rgba(250, 230, 7, 1);">
-  > ciao
-</div>
+<style>
+p.success,blockquote.success {
+    background: rgba(65,214,147,0.2);
+    border-left: 4px solid #026e57;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
+    padding: .8rem
+}
+
+p.success::before,blockquote.success::before {
+    color: #026e57;
+    content: "";
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: .75em;
+    padding-bottom: .125rem
+}
+
+p.success>.success-title,blockquote.success>.success-title {
+    color: #026e57;
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: .75em;
+    padding-bottom: .125rem
+}
+
+p.success-title,blockquote.success-title {
+    background: rgba(65,214,147,0.2);
+    border-left: 4px solid #026e57;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
+    padding: .8rem
+}
+
+p.success-title>p:first-child,blockquote.success-title>p:first-child {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #026e57;
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: .75em;
+    padding-bottom: .125rem
+}
+
+blockquote.success {
+    margin-left: 0;
+    margin-right: 0
+}
+
+blockquote.success>p:first-child {
+    margin-top: 0
+}
+
+blockquote.success>p:last-child {
+    margin-bottom: 0
+}
+
+blockquote.success-title {
+    margin-left: 0;
+    margin-right: 0
+}
+
+blockquote.success-title>p:nth-child(2) {
+    margin-top: 0
+}
+
+blockquote.success-title>p:last-child {
+    margin-bottom: 0
+}
+</style>
+
 
 ### Dates:
 18-19-20 October 2023 (between 9:00-17:00 CET)

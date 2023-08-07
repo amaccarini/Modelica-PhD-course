@@ -1,5 +1,6 @@
 ---
 name: Alessandro Maccarini
+role: Instructor
 email: me@example.com
 website: https://kevinl.info
 photo: photo_amac_v2.jpg

@@ -1,9 +1,9 @@
 ---
 name: Alessandro Maccarini
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: amac@build.aau.dk
+website: https://vbn.aau.dk/en/persons/130238
 photo: Cropped_Image_v2.png
 ---
 
-I like teaching Computer Science!
+Main instructor and organizer

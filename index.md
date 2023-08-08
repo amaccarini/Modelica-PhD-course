@@ -1,7 +1,6 @@
 ---
 layout: home
 title: 🏡 Home
-logo: /assets/images/whoisbenjamin-dSkJXpwQTOI-unsplash.jpg
 nav_exclude: false
 nav_order: 1
 permalink: /:path/
@@ -9,7 +8,7 @@ seo:
   type: Course
   name: Just the Class
 ---
-
+#logo: /assets/images/whoisbenjamin-dSkJXpwQTOI-unsplash.jpg
 # Modelica-based simulation of building energy systems
 {: .fs-7 .mb-2 }
 {{ site.tagline }}

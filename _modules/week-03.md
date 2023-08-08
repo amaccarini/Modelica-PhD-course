@@ -28,11 +28,11 @@ title: Friday, October 20
 : **Free**{: .label .label-green } **Break**
 
 15:15-16:30
-: **Final Assignment**{: .label .label-red }
+: **Final Assignment II**{: .label .label-red }
 : - Continuing to work on the final assignment
 
 16:30-17:00
-: **Social**{: .label .label-yellow } Closing remarks
-: - Coffee and cake 🍰
+: **Social**{: .label .label-yellow } **Closing remarks**
+: - Coffee and sweets 🍩
 : - Q&A
 : - Feedback from students

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 🏠 Home
+title: 🏡 Home
 logo: /assets/images/HeatingSystem.png
 nav_exclude: false
 nav_order: 1

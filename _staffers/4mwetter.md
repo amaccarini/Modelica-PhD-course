@@ -6,7 +6,7 @@ website: https://eta.lbl.gov/people/michael-wetter
 photo: michael_Cropped.png
 ---
 
-Guest lecturer
+<strong>Guest lecturer</strong>
 
 💼 Computational Senior Scientist 
 

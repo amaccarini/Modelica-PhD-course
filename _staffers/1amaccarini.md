@@ -7,3 +7,5 @@ photo: Cropped_Image_v2.png
 ---
 
 Main instructor and organizer
+💼 Assistant Professor
+🏢 Aalborg University - Department of the Built Environment

@@ -33,6 +33,6 @@ title: Friday, October 20
 
 16:30-17:00
 : **Social**{: .label .label-yellow } **Closing remarks**
-: - Coffee and sweets 🍩
+: - Coffee and sweets 🍭
 : - Q&A
 : - Feedback from students

@@ -8,8 +8,7 @@ title: Wednesday, October 18
 09:30-10:00 
 : **Intro**{: .label .label-purple } **Overview of the course**
 : - Short presentation of instructors and participants
-: - Software installation
-: - Practical info
+: - Software installation and practical info
 
 10:00-10:15 
 : **Free**{: .label .label-green } **Break**
@@ -18,14 +17,13 @@ title: Wednesday, October 18
 : **Lecture**{: .label .label-purple } **Session 1 / Introduction to system modeling**
 : - Systems, models and simulation
 : - Building performance simulation tools
-: - A first intro to Modelica
+: - A first overview of Modelica
 
 11:45-13:00 
 : **Free**{: .label .label-green } **Lunch**
 
 13:00-14:15 
 : **Lecture**{: .label .label-purple } **Sessions 2 / Dymola overview and workflow**
-: - Overview of Dymola
 : - Creating new models / Settings parameters / Organizing models in packages
 : - Dymola workflow: check, translate, simulate, plot
 : **Exercise**{: .label .label-red } Develop and simulate your first model

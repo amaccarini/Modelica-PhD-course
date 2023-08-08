@@ -6,4 +6,8 @@ website: https://vbn.aau.dk/da/persons/115241
 photo: alireza_Cropped.png
 ---
 
-I like teaching Computer Science!
+Organizer
+
+💼 Professor
+
+🏠 Aalborg University - Department of the Built Environment

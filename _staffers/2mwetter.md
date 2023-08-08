@@ -6,4 +6,8 @@ website: https://eta.lbl.gov/people/michael-wetter
 photo: michael_Cropped.png
 ---
 
-I like teaching Computer Science!
+Guest lecturer
+
+💼 Computational Senior Scientist 
+
+🏠 Lawrence Berkeley National Laboratory

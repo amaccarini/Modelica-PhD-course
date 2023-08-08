@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 🏡 Home
-logo: /assets/images/HeatingSystem.png
+logo: /assets/images/whoisbenjamin-dSkJXpwQTOI-unsplash.jpg
 nav_exclude: false
 nav_order: 1
 permalink: /:path/

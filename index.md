@@ -15,7 +15,7 @@ seo:
 {{ site.tagline }}
 {: .fs-6 .fw-300 }
 
-This course aims to present latest developments in modeling and simulation of building and district energy systems based on Modelica modeling language. Modelica is a promising open-source language that features ease of use, visual design of models with combination of Lego-like predefined blocks, ability to define model libraries with reusable components, and support for modeling and simulation of complex applications involving parts from different engineering domains.
+This course aims to present latest developments in modeling and simulation of building and district energy systems based on Modelica modeling language. Modelica is an open-source language that features ease of use, visual design of models with combination of Lego-like predefined blocks, ability to define model libraries with reusable components, and support for modeling and simulation of complex applications involving parts from different engineering domains.
 
 The course is organized in three days. In the first day, the course gives a basic introduction of Modelica fundamentals by introducing object-oriented and equation-based modeling. In the second day, the concepts previously learnt are used to develop a building model equipped with a radiator system and an air-based cooling system. In the third day, a district heating system model will be developed by connecting substations, piping network and central plant.
 

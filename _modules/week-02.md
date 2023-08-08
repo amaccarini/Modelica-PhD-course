@@ -10,7 +10,7 @@ title: Thursday, October 19
 : **Exercise**{: .label .label-red } Constructing a RC lumped model
 
 10:45-11:00 
-: **Free**{: .label .label-green } **Coffee break**
+: **Free**{: .label .label-green } **Break**
 
 11:00-12:15 
 : **Hands-on training**{: .label .label-purple } **Session 6 / Modeling a simple house**
@@ -26,7 +26,7 @@ title: Thursday, October 19
 : - Sensors and controls
 
 14:45-15:15 
-: **Free**{: .label .label-green } **Coffee break**
+: **Free**{: .label .label-green } **Break**
 
 15:15-17:00 
 : **Hands-on training**{: .label .label-purple } **Session 8 / Air-based cooling system**

@@ -20,7 +20,7 @@ title: Friday, October 20
 : **Free**{: .label .label-green } **Lunch**
 
 13:15-14:45 
-: **Final assignment I**{: .label .label-red }
+: **Final assignment I**{: .label .label-red } **Session 11**
 : - Presentation of the final assignment
 : - Starting to work on the assignment in class
 
@@ -28,7 +28,7 @@ title: Friday, October 20
 : **Free**{: .label .label-green } **Break**
 
 15:15-16:30
-: **Final Assignment II**{: .label .label-red }
+: **Final Assignment II**{: .label .label-red } **Session 12**
 : - Continuing to work on the final assignment
 
 16:30-17:00

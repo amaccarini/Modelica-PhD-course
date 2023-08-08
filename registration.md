@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📑 Registration
+title: ✏️ Registration
 nav_order: 3
 description: Info about registration.
 ---

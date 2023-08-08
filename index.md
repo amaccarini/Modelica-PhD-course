@@ -96,7 +96,7 @@ blockquote.note-title>p:nth-child(2) {
 blockquote.note-title>p:last-child {
     margin-bottom: 0
 }
-.site-logo { width: 100%; height: 100%; background-image: url("https://amaccarini.github.io/Modelica-PhD-course-2023/assets/images/whoisbenjamin-dSkJXpwQTOI-unsplash.jpg"); background-repeat: no-repeat; background-position: left center; background-size: contain; }
+.site-logo { width: 100%; height: 100%; background-image: url("../assets/images/whoisbenjamin-dSkJXpwQTOI-unsplash.jpg"); background-repeat: no-repeat; background-position: left center; background-size: contain; }
 </style>
 
 ### Dates:

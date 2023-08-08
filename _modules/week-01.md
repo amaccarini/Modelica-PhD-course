@@ -12,7 +12,7 @@ title: Wednesday, October 18
 : - Practical info
 
 10:00-10:15 
-: **Free**{: .label .label-green } **Coffee break**
+: **Free**{: .label .label-green } **Break**
 
 10:15-11:45 
 : **Lecture**{: .label .label-purple } **Session 1 / Introduction to system modeling**
@@ -31,7 +31,7 @@ title: Wednesday, October 18
 : **Exercise**{: .label .label-red } Develop and simulate your first model
 
 14:15-14:45 
-: **Free**{: .label .label-green } **Coffee break**
+: **Free**{: .label .label-green } **Break**
 
 14:45-16:00 
 : **Lecture**{: .label .label-purple } **Session 3 / Modelica overview**

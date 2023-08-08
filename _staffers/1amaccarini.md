@@ -10,4 +10,4 @@ Main instructor and organizer
 
 💼 Assistant Professor
 
-🏢 Aalborg University - Department of the Built Environment
+🏠 Aalborg University - Department of the Built Environment

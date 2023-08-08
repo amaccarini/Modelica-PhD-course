@@ -117,7 +117,7 @@ The course is free for students and academics (e.g. post-docs, researchers). If 
 - Basic knowledge of building simulation programs
 - Knowledge of thermo-fluid dynamics and heat transfer mechanisms in buildings
 
-### Software:
+### Software requirements:
 Prior to the course, it is required to install the latest [Dymola trial version](https://www.3ds.com/products-services/catia/products/dymola/trial-version/) and the [Modelica Buildings Library](https://simulationresearch.lbl.gov/modelica/download.html). The instructions to access the non-trial license for the course will be sent by email. 
 
 ### Criteria for assessment:

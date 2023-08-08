@@ -5,7 +5,7 @@ nav_order: 2
 description: Listing of course modules and topics.
 ---
 
-# 📅 Agenda
+# 📅 Agenda (Preliminary)
 
 {% for module in site.modules %}
 {{ module }}

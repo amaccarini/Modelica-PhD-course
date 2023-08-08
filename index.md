@@ -110,7 +110,7 @@ Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers VÃ¦nge 15, 2450 KÃ
 <p class="note">The course is designed for <strong>in-person participation</strong>. However, a limited number of seats will be made available for on-line participation. For more info about registration and on-line participation, please see here.</p>
 
 ### Fee:
-The course is free for students and academics (e.g. post-docs, researchers). If you are from the industry, the fee for participating in the course is 1000 EUR.
+The course is free for students and academics. If you are from the industry, the fee for participating in the course is 1000 EUR.
 
 ### Prerequisites:
 - Basic knowledge of programming (any language)

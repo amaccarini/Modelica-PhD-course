@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 🏡 Home
-logo: /assets/images/logo_pump_image.png
+logo: /assets/images/logo_modelica_comp.png
 nav_exclude: false
 nav_order: 1
 permalink: /:path/

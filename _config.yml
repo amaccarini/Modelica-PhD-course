@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Modelica PhD course 2023
-logo: /assets/images/logo_modelica_comp.png
-favicon_ico: /assets/images/icons8-system-64_v2.png
+#logo: /assets/images/logo_modelica_comp.png
+#favicon_ico: /assets/images/icons8-system-64_v2.png
 tagline: PhD course at Aalborg University
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Aalborg University

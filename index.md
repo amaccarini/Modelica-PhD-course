@@ -117,6 +117,9 @@ The course is free for students and academics (e.g. post-docs, researchers). If 
 - Basic knowledge of building simulation programs
 - Knowledge of thermo-fluid dynamics and heat transfer mechanisms in buildings
 
+### Software:
+Prior to the course, it is required to install the latest [Dymola trial version](https://www.3ds.com/products-services/catia/products/dymola/trial-version/) and the [Modelica Buildings Library](https://simulationresearch.lbl.gov/modelica/download.html). The instructions to access the non-trial license for the course will be sent by email. 
+
 ### Criteria for assessment:
 The completion of the couse is awarded with 3 ECTS (European Credit Transfer System). Participants will be evaluated through a final assignment, which consists in the preparation of a report to be delivered 2 weeks after the end of the course.
 

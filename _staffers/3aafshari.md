@@ -6,7 +6,7 @@ website: https://vbn.aau.dk/da/persons/115241
 photo: alireza_Cropped.png
 ---
 
-Organizer
+<strong>Organizer</strong>
 
 💼 Professor
 

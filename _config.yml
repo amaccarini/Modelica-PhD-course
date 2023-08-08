@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: Modelica PhD course 2023
 logo: /assets/images/HeatingSystem.png
 favicon_ico: /assets/images/icons8-system-64_v2.png
 tagline: PhD course at Aalborg University

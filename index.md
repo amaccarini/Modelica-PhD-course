@@ -22,7 +22,7 @@ The course is organized in three days. In the first day, the course gives a basi
 Teaching will be provided as a mix of lecture presentations, hands-on trainings, simulation exercises and discussions.
 
 ### Target audience:
-The course is directed towards PhD students who aim to use Modelica for simulation of building energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
+The course is directed towards PhD students who aim to use Modelica for simulation of building and district energy systems. MSc students, academics (e.g. postdocs, researchers) and professionals from the industry are also welcome.
 
 <style>
 p.note,blockquote.note {

@@ -14,14 +14,14 @@ Pre-registration is open until <strong>August 31, 2023</strong>. If more than 20
 <style>
 p.important,blockquote.important {
     background: rgba(247,126,126,0.2);
-    border-left: 4px solid #e7af06;
+    border-left: 4px solid #dd2e2e;
     border-radius: 4px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
     padding: .8rem
 }
 
 p.important::before,blockquote.important::before {
-    color: #e7af06;
+    color: #dd2e2e;
     content: "Important!";
     display: block;
     font-weight: bold;
@@ -31,7 +31,7 @@ p.important::before,blockquote.important::before {
 }
 
 p.important>.important-title,blockquote.important>.important-title {
-    color: #e7af06;
+    color: #dd2e2e;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
@@ -41,7 +41,7 @@ p.important>.important-title,blockquote.important>.important-title {
 
 p.important-title,blockquote.important-title {
     background: rgba(247,126,126,0.2);
-    border-left: 4px solid #e7af06;
+    border-left: 4px solid #dd2e2e;
     border-radius: 4px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
     padding: .8rem

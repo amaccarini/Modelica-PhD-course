@@ -11,3 +11,5 @@ description: A listing of all the course staff members.
 {% for staffer in site.staffers %}
 {{ staffer }}
 {% endfor %}
+
+For questions and info please contact Alessandro Maccarini amac@build.aau.dk

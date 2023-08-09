@@ -39,7 +39,7 @@ p.note>.note-title,blockquote.note>.note-title {
 }
 
 p.note-title,blockquote.note-title {
-    background: rgba(255,235,130,0.2);
+    background: rgba(247,126,126,0.2);
     border-left: 4px solid #e7af06;
     border-radius: 4px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
@@ -85,6 +85,7 @@ blockquote.note-title>p:last-child {
 
 </style>
 
+<p class="Important!">Only 5 slots will be available for online participation. Please note that online participants will experience a limited level of teaching assistance, particularly during hands-on activities, as remote debugging of Modelica code may be challenging.
 
 Online participation
 A limited number of seats will be reserved for online participation. 

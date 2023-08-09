@@ -86,7 +86,7 @@ blockquote.important-title>p:last-child {
 
 </style>
 
-<p class="important">Only 5 slots will be available for online participation. Please note that online participants will experience a limited level of teaching assistance, particularly during hands-on activities, as remote debugging of Modelica code may be challenging.</p>
+<p class="important">Only 5 slots will be available for online participation. Please note that online participants will experience a limited level of teaching assistance, particularly during hands-on activities, as remote debugging of Modelica code may be challenging. In addition, online participation requires possession of a licensed version of Dymola</p>
 
 
 

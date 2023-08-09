@@ -10,6 +10,82 @@ If you would like to pre-register to the course, please use the following [form]
 
 Pre-registration is open until <strong>August 31, 2023</strong>. If more than 20 people pre-register to the course, the final list of participants will be selected on a "first-come, first-served" basis, but priority will be given to PhD students. Selected candidates will be notified by email on September 1, 2023. 
 
+<style>
+p.note,blockquote.note {
+    background: rgba(255,235,130,0.2);
+    border-left: 4px solid #e7af06;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
+    padding: .8rem
+}
+
+p.note::before,blockquote.note::before {
+    color: #e7af06;
+    content: "Online participation";
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: .75em;
+    padding-bottom: .125rem
+}
+
+p.note>.note-title,blockquote.note>.note-title {
+    color: #e7af06;
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: .75em;
+    padding-bottom: .125rem
+}
+
+p.note-title,blockquote.note-title {
+    background: rgba(255,235,130,0.2);
+    border-left: 4px solid #e7af06;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
+    padding: .8rem
+}
+
+p.note-title>p:first-child,blockquote.note-title>p:first-child {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #e7af06;
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: .75em;
+    padding-bottom: .125rem
+}
+
+blockquote.note {
+    margin-left: 0;
+    margin-right: 0
+}
+
+blockquote.note>p:first-child {
+    margin-top: 0
+}
+
+blockquote.note>p:last-child {
+    margin-bottom: 0
+}
+
+blockquote.note-title {
+    margin-left: 0;
+    margin-right: 0
+}
+
+blockquote.note-title>p:nth-child(2) {
+    margin-top: 0
+}
+
+blockquote.note-title>p:last-child {
+    margin-bottom: 0
+}
+
+</style>
+
+
 Online participation
 A limited number of seats will be reserved for online participation. 
 

@@ -10,4 +10,4 @@ photo: michael_Cropped.png
 
 💼 Computational Senior Scientist 
 
-🏠 Lawrence Berkeley National Laboratory - Energy Technology Area
+🏠 Lawrence Berkeley National Laboratory - Energy Technologies Area

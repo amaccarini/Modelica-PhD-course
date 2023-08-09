@@ -22,7 +22,7 @@ p.important,blockquote.important {
 
 p.important::before,blockquote.important::before {
     color: #dd2e2e;
-    content: "Important!";
+    content: "Important";
     display: block;
     font-weight: bold;
     text-transform: uppercase;

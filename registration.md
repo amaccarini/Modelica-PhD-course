@@ -12,7 +12,7 @@ Pre-registration is open until <strong>August 31, 2023</strong>. If more than 20
 
 <style>
 p.important,blockquote.important {
-    background: rgba(255,235,130,0.2);
+    background: rgba(247,126,126,0.2);
     border-left: 4px solid #e7af06;
     border-radius: 4px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);

@@ -12,4 +12,4 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
-For questions and further info please contact [Alessandro Maccarini](amac@build.aau.dk).
+For questions and further info please contact [Alessandro Maccarini](mailto:amac@build.aau.dk).

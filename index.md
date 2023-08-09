@@ -108,7 +108,7 @@ blockquote.note-title>p:last-child {
 ### Location:
 Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers Vænge 15, 2450 København](https://www.google.com/maps/place/Aalborg+University+Copenhagen/@55.6508514,12.5419012,15z/data=!4m6!3m5!1s0x465254803001cc61:0xe7e0b8f43d4f43e7!8m2!3d55.6508514!4d12.5419012!16s%2Fm%2F0hhqstv?entry=ttu))
 
-<p class="note">The course is designed for <strong>in-person participation</strong>. However, a limited number of slots will be made available for online participation. For more info about registration and online participation, please see <a href="https://amaccarini.github.io/Modelica-PhD-course-23/registration/">here.</a></p>
+<p class="note">The course is designed for <strong>in-person participation</strong>. However, a limited number of slots will be available for online participation. For more info about registration and online participation, please see <a href="https://amaccarini.github.io/Modelica-PhD-course-23/registration/">here.</a></p>
 
 ### Fee:
 The course is free for students and academics. If you are from the industry, the fee for participating in the course is 1000 EUR.

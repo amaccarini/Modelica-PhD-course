@@ -10,10 +10,12 @@ seo:
   name: Just the Class
 ---
 
-# Modelica-based simulation of building energy systems
+# Modelica-based simulation of building and district energy systems
 {: .fs-7 .mb-2 }
 {{ site.tagline }}
 {: .fs-6 .fw-300 }
+
+On October 18-19-20, BUILD - Department of the Built Environment will organize the 3rd edition of the PhD course entitled “Modelica-based simulation of building and district energy systems”
 
 This course aims to present latest developments in modeling and simulation of building and district energy systems based on Modelica modeling language. Modelica is an open-source language that features ease of use, visual design of models with combination of Lego-like predefined blocks, ability to define model libraries with reusable components, and support for modeling and simulation of complex applications involving parts from different engineering domains.
 
@@ -114,12 +116,13 @@ Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers Vænge 15, 2450 K�
 The course is free for students and academics. If you are from the industry, the fee for participating in the course is 1000 EUR.
 
 ### Prerequisites:
-- Basic knowledge of programming (any language)
-- Basic knowledge of building simulation programs
-- Knowledge of thermo-fluid dynamics and heat transfer mechanisms in buildings
+While previous Modelica experience is not required for this course, familiarity with the following areas could enhance your understanding:
+- Programming (any language)
+- Building simulation programs
+- Concepts of thermo-fluid dynamics and heat transfer mechanisms in buildings
 
 ### Software requirements:
-Prior to the course, it is required to install the latest [Dymola trial version](https://www.3ds.com/products-services/catia/products/dymola/trial-version/) and the [Modelica Buildings Library](https://simulationresearch.lbl.gov/modelica/download.html). The instructions to access the non-trial license for the course will be sent by email. 
+Prior to the course, it is required to install the latest [Dymola trial version](https://www.3ds.com/products-services/catia/products/dymola/trial-version/) and the [Modelica Buildings Library](https://simulationresearch.lbl.gov/modelica/download.html). The instructions to access the non-trial license will be given at the beginning of the course. 
 
 ### Criteria for assessment:
 The completion of the couse is awarded with 3 ECTS (European Credit Transfer System). Participants will be evaluated through a final assignment, which consists in the preparation of a report to be delivered 2 weeks after the end of the course.

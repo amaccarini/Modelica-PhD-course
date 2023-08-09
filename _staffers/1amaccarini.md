@@ -3,7 +3,7 @@ name: Alessandro Maccarini
 role: Instructor
 email: amac@build.aau.dk
 website: https://vbn.aau.dk/en/persons/130238
-photo: photo_amac_v2.jpg
+photo: amac_photo.jpg
 ---
 
 <strong>Main instructor and organizer</strong>

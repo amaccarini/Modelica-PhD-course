@@ -22,7 +22,7 @@ p.important,blockquote.important {
 
 p.important::before,blockquote.important::before {
     color: #e7af06;
-    content: "Online participation";
+    content: "Important!";
     display: block;
     font-weight: bold;
     text-transform: uppercase;

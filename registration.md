@@ -87,8 +87,7 @@ blockquote.important-title>p:last-child {
 
 <p class="important">Only 5 slots will be available for online participation. Please note that online participants will experience a limited level of teaching assistance, particularly during hands-on activities, as remote debugging of Modelica code may be challenging.
 
-Online participation
-A limited number of seats will be reserved for online participation. 
+
 
 
 

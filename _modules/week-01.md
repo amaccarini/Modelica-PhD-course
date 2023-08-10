@@ -35,7 +35,7 @@ title: Wednesday, October 18
 : **Lecture**{: .label .label-purple } **Session 3 / Modelica overview**
 : - Text editor
 : - Variables and parameters
-: - Equation-based components and state variables
+: - Equation-based components
 : **Exercise**{: .label .label-red } "Hello World" in Modelica
 
 16:00-16:30 

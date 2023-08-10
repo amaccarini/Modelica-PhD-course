@@ -9,7 +9,7 @@ description: Info about registration.
 <br>
 If you would like to pre-register to the course, please use the following <a href="https://forms.gle/HwfkHW3zERthaHaA9" target="_blank">form</a>.
 
-Pre-registration is open until <strong>August 31, 2023</strong>. If more than 20 people pre-register to the course, the final list of participants will be selected on a "first-come, first-served" basis, but priority will be given to PhD students. Selected candidates will be notified by email on September 1, 2023. 
+Pre-registration is open until <strong>August 28, 2023</strong>. If more than 20 people pre-register to the course, the final list of participants will be selected on a "first-come, first-served" basis, but priority will be given to PhD students. Selected candidates will be notified by email on August 29, 2023. 
 
 The registration for the course does not include provisions for meals and accommodation.
 

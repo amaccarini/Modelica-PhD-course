@@ -4,7 +4,7 @@ title: Thursday, October 19
 
 09:30-10:45
 : **Lecture**{: .label .label-purple } **Session 5 / Heat transfer in Modelica**
-: - Transient convective heat transfer (solving ODes)
+: - Transient convective heat transfer (solving ODEs)
 : - 1D discretization of heat conduction (solving PDEs)
 : **Exercise**{: .label .label-red } Cooling an object with air
 : **Exercise**{: .label .label-red } Constructing a RC lumped model

@@ -3,9 +3,9 @@ title: Thursday, October 19
 ---
 
 09:30-10:45
-: **Lecture**{: .label .label-purple } **Session 5 / Heat transfer in Modelica**
+: **Lecture**{: .label .label-purple } **Session 5 / Heat transfer in Modelica and Object-oriented features**
 : - 1D discretization of heat conduction (solving PDEs)
-: - Object-orineted modeling: Packages and interfaces
+: - Object-oriented modeling: Packages and interfaces
 : **Exercise**{: .label .label-red } Constructing a RC lumped model
 : **Exercise**{: .label .label-red } Packaged and interfaces
 

@@ -24,7 +24,7 @@ title: Wednesday, October 18
 
 13:00-14:15 
 : **Lecture**{: .label .label-purple } **Sessions 2 / Dymola overview and workflow**
-: - Creating new models / Settings parameters / Organizing models in packages
+: - Creating new models / Settings parameters 
 : - Dymola workflow: check, translate, simulate, plot
 : **Exercise**{: .label .label-red } Develop and simulate your first model
 

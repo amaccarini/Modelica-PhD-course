@@ -37,6 +37,8 @@ title: Wednesday, October 18
 : - Variables and parameters
 : - Equation-based components
 : **Exercise**{: .label .label-red } "Hello World" in Modelica
+: **Exercise**{: .label .label-red } Getting physical: Cooling down an object
+: **Exercise**{: .label .label-red } Pendulum
 
 16:00-16:30 
 : **Lecture**{: .label .label-purple } **Session 4 / The Modelica Buildings Library (by Michael Wetter)**

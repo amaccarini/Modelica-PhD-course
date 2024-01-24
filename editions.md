@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 🕰️ Previous editions
+title: 📊 Previous editions
 nav_order: 5
 description: Info about previous editions
 ---
 
-# 🕰️ Previous editions
+# 📊 Previous editions
 <br>
 Edition 2021

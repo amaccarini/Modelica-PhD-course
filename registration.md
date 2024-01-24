@@ -7,7 +7,7 @@ description: Info about registration.
 
 # ✏️ Pre-registration
 <br>
-Registration closed on August 29, 2023.
+Pre-Registration will be open in August 2024.
 
 
 

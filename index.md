@@ -100,7 +100,7 @@ blockquote.note-title>p:last-child {
 </style>
 
 ### Dates:
-18-19-20 October 2023 (between 9:00-17:00 CET)
+The next edition of the course will be held in October 2024. Pre-registrations will open in August 2024.
 
 ### Max. number of participants:
 20

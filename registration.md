@@ -7,7 +7,7 @@ description: Info about registration.
 
 # ✏️ Pre-registration
 <br>
-Pre-Registration will be open in August 2024.
+Pre-registration will be open in August 2024.
 
 
 

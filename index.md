@@ -100,7 +100,7 @@ blockquote.note-title>p:last-child {
 </style>
 
 ### Dates:
-The next edition of the course will be held in October 2024. Pre-registrations will open in August 2024.
+The next edition of the course will be organized in October 2024. Pre-registrations will open in August 2024.
 
 ### Max. number of participants:
 20

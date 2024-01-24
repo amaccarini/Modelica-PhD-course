@@ -7,4 +7,4 @@ description: Info about previous editions
 
 # 📊 Previous editions
 <br>
-Edition 2021
+The course has been conducted annually since 2021. Across all editions, approximately 60 students have attended the course. 

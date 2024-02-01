@@ -1,5 +1,5 @@
 ---
-title: Wednesday, October 18
+title: Day 1
 ---
 
 09:00-09:30 

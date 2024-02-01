@@ -1,5 +1,5 @@
 ---
-title: Friday, October 20
+title: Day 3
 ---
 
 09:30-10:45

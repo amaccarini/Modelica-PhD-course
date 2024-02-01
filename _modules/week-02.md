@@ -1,5 +1,5 @@
 ---
-title: Thursday, October 19
+title: Day 2
 ---
 
 09:30-10:45

@@ -1,7 +1,7 @@
 ---
 name: Rene Just Nielsen 
 role: Teaching Assistant
-email:rjn@addedvalues.eu
+email: rjn@addedvalues.eu
 website: https://www.linkedin.com/in/renejustnielsen/?originalSubdomain=dk
 photo: rene_cropped.png
 ---

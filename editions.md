@@ -10,7 +10,7 @@ description: Info about previous editions
 The course has been conducted annually since 2021. Across all editions, approximately 60 students have attended the course. Below is the list of organizations from which participants have been affiliated.
 
 ### Austria
--Graz University of Technology	
+- Graz University of Technology	
 
 ### Belgium
 : University of Ghent

@@ -15,12 +15,12 @@ The course has been conducted annually since 2021. Across all editions, approxim
 ### Belgium
 - University of Ghent
 
-### Canada:
+### Canada
 - Concordia University
 - Polytechnique Montréal 
 - University of Calgary
 
-### Denmark:
+### Denmark
 - Aalborg University
 - Technical University of Denmark
 - University of Southern Denmark

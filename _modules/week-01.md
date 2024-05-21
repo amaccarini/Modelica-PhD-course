@@ -10,19 +10,16 @@ title: Day 1
 : - Short presentation of instructors and participants
 : - Software installation and practical info
 
-10:00-10:15 
-: **Free**{: .label .label-green } **Break**
-
-10:15-11:45 
+10:00-11:45 
 : **Lecture**{: .label .label-purple } **Session 1 / Introduction to system modeling**
 : - Systems, models and simulation
 : - Building performance simulation tools
 : - A first overview of Modelica
 
-11:45-13:00 
+11:45-12:45 
 : **Free**{: .label .label-green } **Lunch**
 
-13:00-14:15 
+12:45-14:15 
 : **Lecture**{: .label .label-purple } **Sessions 2 / Dymola overview and workflow**
 : - Creating new models / Settings parameters 
 : - Dymola workflow: check, translate, simulate, plot

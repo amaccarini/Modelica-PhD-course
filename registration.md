@@ -7,7 +7,7 @@ description: Info about registration.
 
 # ✏️ Pre-registration
 <br>
-If you would like to pre-register to the course, please use the following <a href="https://forms.gle/HwfkHW3zERthaHaA9" target="_blank">form</a>.
+If you would like to pre-register to the course, please use the following <a href="https://forms.gle/vVH6Pmgdv3NVjvup9" target="_blank">form</a>.
 
 Pre-registration is open until <strong>June 7, 2024</strong>. If more than 20 people pre-register to the course, the final list of participants will be selected on a "first-come, first-served" basis, but priority will be given to PhD students. Selected candidates will be notified by email on June 10, 2024. 
 

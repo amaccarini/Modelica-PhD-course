@@ -13,38 +13,38 @@ The course has been conducted annually since 2021. Across all editions, approxim
 - Graz University of Technology	
 
 ### Belgium
-: University of Ghent
+- University of Ghent
 
 ### Canada:
--Concordia University
--Polytechnique Montréal 
--University of Calgary
+- Concordia University
+- Polytechnique Montréal 
+- University of Calgary
 
 ### Denmark:
--Aalborg University
--Technical University of Denmark
--University of Southern Denmark
--METROTHERM
--Grundfoss
+- Aalborg University
+- Technical University of Denmark
+- University of Southern Denmark
+- METROTHERM
+- Grundfoss
 
 ### Germany
--Karlsruhe Institute of Technology
--Technical University of Munich
+- Karlsruhe Institute of Technology
+- Technical University of Munich
 
 ### Ireland
--University College Dublin
+- University College Dublin
 
 ### Italy
--Polytechnic University of Turin
--Sapienza University of Rome
--University of Padua
--University of Sannio
+- Polytechnic University of Turin
+- Sapienza University of Rome
+- University of Padua
+- University of Sannio
 
 ### Netherlands
--Eindhoven University of Technology
+- Eindhoven University of Technology
 
 ### Norway
--Norwegian University of Science and Technology
+- Norwegian University of Science and Technology
 -University of Stavanger
 
 ### Spain
@@ -52,16 +52,16 @@ The course has been conducted annually since 2021. Across all editions, approxim
 -Tekniker
 
 ### United Kingdom
--University College London
+- University College London
 
 ### United States
--Harvard University
--Illinois Institute of Technology
--Lawrence Berkeley National Laboratory
--Pacific Northwest National Lab
--Texas A&M University
--Carrier
--Jacobs
+- Harvard University
+- Illinois Institute of Technology
+- Lawrence Berkeley National Laboratory
+- Pacific Northwest National Lab
+- Texas A&M University
+- Carrier
+- Jacobs
 
 
 

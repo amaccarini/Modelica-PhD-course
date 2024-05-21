@@ -35,7 +35,7 @@ title: Day 2
 : - Control system
 
 16:00-17:00 
-: **Guest Lecture**{: .label .label-purple } **Session 9 / Modelica in action: Real-World applications for district heating (by Rene Just Nielsen)**
+: **Guest Lecture**{: .label .label-purple } **Session 9 / Modelica in action: Real-world applications for district heating (by Rene Just Nielsen)**
 : - Process models used in district heating project
 : - Control design for real-world implementation
 : - Challenges and outlook

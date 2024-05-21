@@ -13,7 +13,7 @@ The course has been conducted annually since 2021. Across all editions, approxim
 -Graz University of Technology	
 
 ### Belgium
--University of Ghent
+: University of Ghent
 
 ### Canada:
 -Concordia University

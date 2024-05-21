@@ -38,7 +38,7 @@ title: Day 1
 : **Exercise**{: .label .label-red } Pendulum
 
 16:00-17:00
-: **Lecture**{: .label .label-purple } **Session 4 / Modelica Buildings Library (by Michael Wetter)**
+: **Guest Lecture**{: .label .label-purple } **Session 4 / Modelica Buildings Library (by Michael Wetter)**
 : - Overview, organization and packages 
 : - Related projects that build on MBL
 : - Discussion

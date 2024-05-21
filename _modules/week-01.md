@@ -40,8 +40,11 @@ title: Day 1
 : **Exercise**{: .label .label-red } Getting physical: Cooling an object with air
 : **Exercise**{: .label .label-red } Pendulum
 
-16:00-16:30 
-: **Lecture**{: .label .label-purple } **Session 4 / The Modelica Buildings Library (by Michael Wetter)**
+16:00-17:00
+: **Lecture**{: .label .label-purple } **Session 4 / Modelica Buildings Library (by Michael Wetter)**
+: - Overview, organization and packages 
+: - Related projects that build on MBL
+: - Discussion
 
 
 

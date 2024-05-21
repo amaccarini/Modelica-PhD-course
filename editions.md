@@ -58,7 +58,7 @@ The course has been conducted annually since 2021. Across all editions, approxim
 - Harvard University
 - Illinois Institute of Technology
 - Lawrence Berkeley National Laboratory
-- Pacific Northwest National Lab
+- Pacific Northwest National Laboratory
 - Texas A&M University
 - Carrier
 - Jacobs

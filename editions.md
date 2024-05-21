@@ -45,11 +45,11 @@ The course has been conducted annually since 2021. Across all editions, approxim
 
 ### Norway
 - Norwegian University of Science and Technology
--University of Stavanger
+- University of Stavanger
 
 ### Spain
--Suno
--Tekniker
+- Suno
+- Tekniker
 
 ### United Kingdom
 - University College London

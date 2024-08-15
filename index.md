@@ -111,7 +111,7 @@ Copenhagen, Denmark ([Aalborg University campus - A.C. Meyers VÃ¦nge 15, 2450 KÃ
 <p class="note">The course is designed for <strong>in-person participation</strong>. However, a limited number of slots will be available for online participation. For more info about registration and online participation, please see <a href="https://amaccarini.github.io/Modelica-PhD-course/registration/">here.</a></p>
 
 ### Fee:
-The course is free for students and academics. If you are from the industry, the fee for participating in the course is 1000 EUR.
+The course is free for students and academics. If you are from the industry, the fee for participating in the course is 800 EUR.
 
 ### Prerequisites:
 While previous Modelica experience is not required for this course, familiarity with the following areas could enhance your understanding:

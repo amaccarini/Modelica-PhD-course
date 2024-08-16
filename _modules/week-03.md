@@ -10,24 +10,24 @@ title: Day 3
 10:15-10:30 
 : **Free**{: .label .label-green } **Break**
 
-10:30-12:00 
+10:30-11:45 
 : **Hands-on training**{: .label .label-purple } **Session 12 / District heating system II**
 : - Central thermal plant
 : - Piping distribution network
 : - Ground heat losses
 
-12:00-13:00 
+11:45-12:45 
 : **Free**{: .label .label-green } **Lunch**
 
-13:00-14:15
+12:45-14:00
 : **Final assignment I**{: .label .label-red } **Session 13**
 : - Presentation of the final assignment
 : - Starting to work on the assignment in class
 
-14:15-14:45 
+14:00-14:30 
 : **Free**{: .label .label-green } **Break**
 
-14:45-16:30
+14:30-16:30
 : **Final Assignment II**{: .label .label-red } **Session 14**
 : - Continuing to work on the final assignment
 

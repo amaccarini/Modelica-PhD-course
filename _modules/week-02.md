@@ -20,7 +20,7 @@ title: Day 2
 
 12:45-14:00 
 : **Hands-on training**{: .label .label-purple } **Session 8 / Air-based cooling system I**
-: - Detailed thermal zone
+: - Thermal zone
 : - Ventilation and fans and cooling machine
 
 14:00-14:15 

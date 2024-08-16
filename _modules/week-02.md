@@ -3,39 +3,36 @@ title: Day 2
 ---
 
 09:00-10:15
-: **Lecture**{: .label .label-purple } **Session 5 / Heat transfer in Modelica and Object-oriented features**
-: - 1D discretization of heat conduction (solving PDEs)
-: - Object-oriented modeling: Packages and interfaces
-: **Exercise**{: .label .label-red } Constructing a RC lumped model
-: **Exercise**{: .label .label-red } Packaged and interfaces
-
-10:15-10:30 
-: **Free**{: .label .label-green } **Break**
-
-10:30-12:00
 : **Hands-on training**{: .label .label-purple } **Session 6 / Modeling a simple house**
 : - Building envelope (walls and windows)
 : - Weather boundary conditions
 
-12:00-12:45 
-: **Free**{: .label .label-green } **Lunch**
+10:15-10:30
+: **Free**{: .label .label-green } **Break**
 
-12:45-14:00 
+10:30-11:45
 : **Hands-on training**{: .label .label-purple } **Session 7 / Heating system**
 : - Radiator
 : - Sensors and controls
+
+11:45-12:45 
+: **Free**{: .label .label-green } **Lunch**
+
+12:45-14:00 
+: **Hands-on training**{: .label .label-purple } **Session 8 / Air-based cooling system I**
+: - Detailed thermal zone
+: - Ventilation and fans and cooling machine
 
 14:00-14:15 
 : **Free**{: .label .label-green } **Break**
 
 14:15-16:00 
-: **Hands-on training**{: .label .label-purple } **Session 8 / Air-based cooling system**
-: - Detailed thermal zone
-: - Fans and cooling machine
+: **Hands-on training**{: .label .label-purple } **Session 9 / Air-based cooling system II**
+: - Cooling machine
 : - Control system
 
 16:00-17:00 
-: **Guest Lecture**{: .label .label-purple } **Session 9 / Modelica in action: Real-world applications for district heating (by Rene Just Nielsen)**
+: **Guest Lecture**{: .label .label-purple } **Session 10 / Modelica in action: Real-world applications for district heating (by Rene Just Nielsen)**
 : - Process models used in district heating project
 : - Control design for real-world implementation
 : - Challenges and outlook

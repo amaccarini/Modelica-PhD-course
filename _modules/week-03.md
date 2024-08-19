@@ -30,6 +30,6 @@ title: Day 3
 : - Q&A
 : - Feedback from students
 
-15:-17:00
+15:00-17:00
 : **Final Assignment II**{: .label .label-red } **Session 14**
 : - Continuing to work on the final assignment

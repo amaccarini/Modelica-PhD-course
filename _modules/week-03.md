@@ -24,12 +24,12 @@ title: Day 3
 : - Presentation of the final assignment
 : - Starting to work on the assignment in class
 
-14:00-15:00 
+14:00-14:30
 : **Social**{: .label .label-yellow } **Sweet Reflections: Cake and Course Feedback**
 : - Coffee and sweets 🍭
 : - Q&A
 : - Feedback from students
 
-15:00-17:00
+14:30-17:00
 : **Final Assignment II**{: .label .label-red } **Session 14**
 : - Continuing to work on the final assignment

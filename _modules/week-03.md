@@ -25,7 +25,7 @@ title: Day 3
 : - Starting to work on the assignment in class
 
 14:00-14:30
-: **Social**{: .label .label-yellow } **Sweet Reflections: Cake and Course Feedback**
+: **Social**{: .label .label-yellow } **Sweet reflections: Cake and course feedback**
 : - Coffee and sweets 🍭
 : - Q&A
 : - Feedback from students

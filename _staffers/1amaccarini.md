@@ -8,6 +8,6 @@ photo: amac_photo.jpg
 
 <strong>Main instructor and organizer</strong>
 
-💼 Assistant Professor
+💼 Associate Professor
 
 🏠 Aalborg University - Department of the Built Environment

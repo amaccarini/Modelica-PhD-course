@@ -100,7 +100,7 @@ blockquote.note-title>p:last-child {
 </style>
 
 ### Dates:
-The 4th edition of the course is scheduled for **August 21-23, 2024**. Registrations are closed.
+The next (5th) edition of the course is scheduled for **August 2025**. Registrations will open in April/May 2025.
 
 ### Max. number of participants:
 20

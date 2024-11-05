@@ -7,7 +7,7 @@ description: Info about registration.
 
 # ✏️ Pre-registration
 <br>
-Registrations for the 2024 edition of the course are closed. 
+Registrations for the 2025 edition of the course will open in April/May 2025. 
 
 
 

@@ -100,7 +100,7 @@ blockquote.note-title>p:last-child {
 </style>
 
 ### Dates:
-The next (5th) edition of the course is scheduled for **August 2025**. Registrations will open in April/May 2025.
+The next edition of the course has not yet been confirmed.
 
 ### Max. number of participants:
 20

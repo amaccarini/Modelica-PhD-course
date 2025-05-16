@@ -7,7 +7,7 @@ description: Info about registration.
 
 # ✏️ Pre-registration
 <br>
-The next edition of the course has not yet been confirmed.
+Pre-registration will open at the end of May.
 
 
 

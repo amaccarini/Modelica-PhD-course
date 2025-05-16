@@ -100,7 +100,7 @@ blockquote.note-title>p:last-child {
 </style>
 
 ### Dates:
-The next edition of the course will take place on August 25th, 26th, and 27th in Copenhagen, Denmark. Pre-registration will open at the end of May.
+The next edition of the course will take place on August 25th, 26th, and 27th. Pre-registration will open at the end of May.
 
 ### Max. number of participants:
 20

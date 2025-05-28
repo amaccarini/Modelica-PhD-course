@@ -9,7 +9,7 @@ description: Info about registration.
 <br>
 If you would like to pre-register to the course, please use the following <a href="https://forms.gle/HwfkHW3zERthaHaA9" target="_blank">form</a>.
 
-Pre-registration is open until <strong>June 7, 2024</strong>. If more than 20 people pre-register to the course, the final list of participants will be selected on a "first-come, first-served" basis, but priority will be given to PhD students. Selected candidates will be notified by email on June 10, 2024. 
+Pre-registration is open until <strong>June 16, 2025</strong>. If more than 20 people pre-register for the course, the final list of participants will be selected on a "first-come, first-served" basis, with priority given to PhD students working in fields closely related to HVAC systems and district heating. Selected candidates will be notified by email on June 18, 2025.
 
 The registration for the course does not include provisions for meals and accommodation.
 
@@ -88,7 +88,9 @@ blockquote.important-title>p:last-child {
 
 </style>
 
-<p class="important">Only 5 slots will be available for online participation. Please note that online participants will experience a limited level of teaching assistance, particularly during hands-on activities, as remote debugging of Modelica code may be challenging. In addition, online participation requires possession of a licensed version of Dymola</p>
+<p class="important">Only 5 slots are available for online participation. Please note that online attendees may receive limited teaching support, especially during hands-on sessions, as remote debugging of Modelica code can be challenging. Priority for online participation will be given to candidates based in non-European countries and/or those requiring a visa to enter Denmark.
+
+</p>
 
 
 

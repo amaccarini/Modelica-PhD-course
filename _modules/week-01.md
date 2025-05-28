@@ -17,9 +17,9 @@ title: Day 1
 : - A first overview of Modelica
 
 10:30-11:45 
-: **Lecture**{: .label .label-purple } **Sessions 2 / Dymola overview and workflow**
+: **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow**
 : - Creating new models / Settings parameters 
-: - Dymola workflow: check, translate, simulate, plot
+: - Workflow: Simulate and plot
 : **Exercise**{: .label .label-red } Develop and simulate your first model
 
 11:45-12:45 

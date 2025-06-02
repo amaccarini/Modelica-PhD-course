@@ -31,8 +31,7 @@ title: Day 3
 : - Feedback from students
 
 15:00-16:00
-: **Guest lecture**{: .label .label-purple } **Session 14**
-: - Cutting-edge innovations at the intersection of Modelica and AI (by Adam Nagel)
+: **Guest lecture**{: .label .label-purple } **Session 14 / Cutting-edge innovations at the intersection of Modelica and AI (by Adam Nagel)**
 
 16:00-17:00
 : **Final Assignment II**{: .label .label-red } **Session 15**

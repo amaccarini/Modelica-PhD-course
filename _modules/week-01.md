@@ -5,7 +5,7 @@ title: Day 1
 09:00-09:30 
 : **Social**{: .label .label-yellow } **Welcome coffee**
 
-09:30-10:00 
+<span class="nobreak">16:00-17:00</span>
 : **Intro**{: .label .label-purple } **Overview of the course**
 : - Short presentation of instructors and participants
 : - Software installation and practical info

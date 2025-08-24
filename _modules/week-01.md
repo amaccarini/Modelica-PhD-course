@@ -17,7 +17,7 @@ title: Day 1
 : - A first overview of Modelica
 
 10:30-11:45 
-: **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow (I part)**
+: **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow I**
 : - Creating new models / Settings parameters 
 : - Workflow: Simulate and plot
 : **Exercise**{: .label .label-red } Building, simulating and analyzing a physical system
@@ -37,7 +37,7 @@ title: Day 1
 : **Free**{: .label .label-green } **Break**
 
 14:45-16:00 
-: **Lecture**{: .label .label-purple } **Session 4 / Modelon Impact overview and workflow (II part)**
+: **Lecture**{: .label .label-purple } **Session 4 / Modelon Impact overview and workflow II**
 : - Library packages
 : - Parameter interface
 : - Documentation and Icon

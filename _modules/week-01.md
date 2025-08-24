@@ -20,7 +20,6 @@ title: Day 1
 : **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow (I part)**
 : - Creating new models / Settings parameters 
 : - Workflow: Simulate and plot
-: **Exercise**{: .label .label-red } Develop and simulate your first model
 
 11:45-12:45 
 : **Free**{: .label .label-green } **Lunch**
@@ -32,7 +31,6 @@ title: Day 1
 : - Equation-based components
 : **Exercise**{: .label .label-red } "Hello World" in Modelica
 : **Exercise**{: .label .label-red } Getting physical: Cooling an object with air
-: **Exercise**{: .label .label-red } Pendulum
 
 14:15-14:45 
 : **Free**{: .label .label-green } **Break**

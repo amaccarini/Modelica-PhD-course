@@ -5,19 +5,19 @@ title: Day 1
 09:00-09:30 
  **Social**{: .label .label-yellow } **Welcome coffee**
 
-<span class="nobreak">16:00-17:00</span>
-: **Intro**{: .label .label-purple } **Overview of the course**
+09:30-10:00
+ **Intro**{: .label .label-purple } **Overview of the course**
 : - Short presentation of instructors and participants
 : - Software installation and practical info
 
 10:00-10:30 
-: **Lecture**{: .label .label-purple } **Session 1 / Introduction to system modeling**
+ **Lecture**{: .label .label-purple } **Session 1 / Introduction to system modeling**
 : - Systems, models and simulation
 : - Building performance simulation tools
 : - A first overview of Modelica
 
 10:30-11:45 
-: **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow (I part)**
+ **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow (I part)**
 : - Creating new models / Settings parameters 
 : - Workflow: Simulate and plot
 : **Exercise**{: .label .label-red } Building, simulating and analyzing a physical system

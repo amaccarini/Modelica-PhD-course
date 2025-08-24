@@ -20,6 +20,7 @@ title: Day 1
 : **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow (I part)**
 : - Creating new models / Settings parameters 
 : - Workflow: Simulate and plot
+: **Exercise**{: .label .label-red } Building, simulating and analyzing a physical system
 
 11:45-12:45 
 : **Free**{: .label .label-green } **Lunch**
@@ -40,6 +41,7 @@ title: Day 1
 : - Library packages
 : - Parameter interface
 : - Documentation and Icon
+: **Exercise**{: .label .label-red } Component design
 
 16:00-17:00
 : **Guest Lecture**{: .label .label-purple } **Session 5 / Modelica Buildings Library (by Michael Wetter)**

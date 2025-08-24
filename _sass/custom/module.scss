@@ -46,6 +46,8 @@
       border-top: $border $border-color;
       font-weight: normal;
       text-align: right;
+      font-family: monospace;
+      white-space: nowrap;
 
       +dd {
         border-top: $border $border-color;

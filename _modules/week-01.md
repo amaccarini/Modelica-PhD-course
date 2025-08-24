@@ -17,7 +17,7 @@ title: Day 1
 : - A first overview of Modelica
 
 10:30-11:45 
-: **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow**
+: **Lecture**{: .label .label-purple } **Sessions 2 / Modelon Impact overview and workflow (I part)**
 : - Creating new models / Settings parameters 
 : - Workflow: Simulate and plot
 : **Exercise**{: .label .label-red } Develop and simulate your first model
@@ -38,11 +38,10 @@ title: Day 1
 : **Free**{: .label .label-green } **Break**
 
 14:45-16:00 
-: **Lecture**{: .label .label-purple } **Session 4 / Heat transfer in Modelica and Object-oriented features**
-: - 1D discretization of heat conduction (solving PDEs)
-: - Object-oriented modeling: Packages and interfaces
-: **Exercise**{: .label .label-red } Constructing a RC lumped model
-: **Exercise**{: .label .label-red } Packaged and interfaces
+: **Lecture**{: .label .label-purple } **Session 4 / Modelon Impact overview and workflow (II part)**
+: - Library packages
+: - Parameter interface
+: - Documentation and Icon
 
 16:00-17:00
 : **Guest Lecture**{: .label .label-purple } **Session 5 / Modelica Buildings Library (by Michael Wetter)**

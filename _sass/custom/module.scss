@@ -48,6 +48,7 @@
       text-align: right;
       font-family: monospace;
       white-space: nowrap;
+      min-width: 6.5em;
 
       +dd {
         border-top: $border $border-color;

@@ -25,7 +25,7 @@ title: Day 3
 : - Starting to work on the assignment in class
 
 13:30-14:30
-: **Guest lecture**{: .label .label-purple } **Session 14 / Cutting-edge innovations at the intersection of Modelica and AI (by Adam Nagel)**
+: **Guest lecture**{: .label .label-purple } **Session 14 / Using Modelica to Train an AI Engineer (by Adam Nagel)**
 
 14:30-15:00
 : **Social**{: .label .label-yellow } **Sweet reflections: Cake and course feedback**

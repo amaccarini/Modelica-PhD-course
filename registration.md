@@ -6,7 +6,7 @@ description: Info about registration.
 ---
 
 # ✏️ Pre-registration
-Registration for the 2025 edition of the course is now closed.
+Registration for the 2026 edition of the course will open in spring 2026.
 
 
 

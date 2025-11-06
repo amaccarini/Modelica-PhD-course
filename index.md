@@ -100,7 +100,7 @@ blockquote.note-title>p:last-child {
 </style>
 
 ### Dates:
-The next edition of the course will take place on August 25-27, 2025. 
+The next edition of the course will take place in late August 2026. 
 
 ### Max. number of participants:
 20

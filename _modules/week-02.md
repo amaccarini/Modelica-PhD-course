@@ -34,8 +34,9 @@ title: Day 2
 : - Challenges and outlook
 
 15:30-17:00 
-: **Guest Lecture**{: .label .label-purple } **Session 10 / Platform-Based Design (PBD) for Energy System (by Matthias Sulzer and Michael Wetter)**
+: **Guest Lecture**{: .label .label-purple } **Session 10 / Platform-Based Design (PBD) for Energy System (by Matthias Sulzer)**
 : - What is PBD? 
-: - Optimization of energy systems 
-: - The role of Modelica in PBD
+: - Optimization of energy systems
+: - Exercise
+
 

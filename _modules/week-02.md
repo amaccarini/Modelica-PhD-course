@@ -37,6 +37,6 @@ title: Day 2
 : **Guest Lecture**{: .label .label-purple } **Session 10 / Platform-Based Design for Energy Systems (by Matthias Sulzer)**
 : - What is Platform-Based Design? 
 : - Optimization of energy systems
-: - Exercise
+: **Exercise**{: .label .label-red } Optimizing a district heating plant
 
 

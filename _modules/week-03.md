@@ -27,13 +27,15 @@ title: Day 3
 13:30-14:30
 : **Guest lecture**{: .label .label-purple } **Session 14 / Using Modelica to Train an AI Engineer (by Adam Nagel)**
 
-14:30-15:00
+14:30-16:30 
+: **Guest lecture**{: .label .label-purple } **Session 15 / Platform-Based Design for Energy Systems II (by Matthias Sulzer and Michael Wetter)**
+: - The role of Modelica in Platform-Based Design workflows
+: **Exercise**{: .label .label-red } District heating Modelica template
+
+16:30-17:00
 : **Social**{: .label .label-yellow } **Sweet reflections: Cake and course feedback**
 : - Coffee and sweets 🍭
 : - Q&A
 : - Feedback from students
 
-15:00-17:00 
-: **Guest lecture**{: .label .label-purple } **Session 15 / Platform-Based Design for Energy Systems II (by Matthias Sulzer and Michael Wetter)**
-: - The role of Modelica in Platform-Based Design workflows
-: **Exercise**{: .label .label-red } District heating Modelica template
+

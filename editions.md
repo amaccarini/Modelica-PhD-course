@@ -44,10 +44,10 @@ The course has been conducted annually since 2021. Across all editions, 100+ stu
     .attr("viewBox", "0 0 " + width + " " + height)
     .attr("preserveAspectRatio", "xMidYMid meet");
 
-  var projection = d3.geoNaturalEarth1()
-    .scale(250)
-    .rotate([50, 0])
-    .translate([width / 2, height / 2 + 60]);
+  var projection = d3.geoMercator()
+    .scale(268)
+    .rotate([67.5, 0])
+    .translate([width / 2, 668]);
 
   var path = d3.geoPath().projection(projection);
   var tooltip = d3.select("#editions-tooltip");

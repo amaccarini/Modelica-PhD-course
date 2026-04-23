@@ -6,7 +6,7 @@ website: https://vbn.aau.dk/en/persons/130238
 photo: amac_photo.jpg
 ---
 
-<strong>Main instructor and organizer</strong>
+<strong>Organizer and main instructor</strong>
 
 💼 Associate Professor
 

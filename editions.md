@@ -19,7 +19,8 @@ The course has been conducted annually since 2021. Across all editions, 100+ stu
 
 ### Canada
 - Concordia University
-- Polytechnique Montréal 
+- Polytechnique Montréal
+- Université du Quebec
 - University of Calgary
 - Rensselaer Polytechnic Institute
 
@@ -28,10 +29,17 @@ The course has been conducted annually since 2021. Across all editions, 100+ stu
 
 ### Denmark
 - Aalborg University
+- Aarhus University
 - Technical University of Denmark
 - University of Southern Denmark
 - METROTHERM
 - Grundfoss
+
+### Estonia
+- Tallinn University of Technology
+
+### Finland
+- Vaasa University
 
 ### Germany
 - Karlsruhe Institute of Technology
@@ -40,6 +48,9 @@ The course has been conducted annually since 2021. Across all editions, 100+ stu
 - Bochum University of Applied Sciences
 - Technical University of Darmstadt
 
+### India
+- Indian Institute of Technology Madras
+  
 ### Ireland
 - University College Dublin
 
@@ -60,8 +71,12 @@ The course has been conducted annually since 2021. Across all editions, 100+ stu
 - University of Stavanger
 
 ### Spain
+- Universitat Politècnica de Catalunya
 - Suno
 - Tekniker
+
+### Sweden
+- Linnaeus University
 
 ### Switzerland
 - Empa
@@ -76,12 +91,16 @@ The course has been conducted annually since 2021. Across all editions, 100+ stu
 - Harvard University
 - Illinois Institute of Technology
 - Lawrence Berkeley National Laboratory
+- Louisiana State University
+- North Carolina State University
 - Pacific Northwest National Laboratory
 - Purdue University
 - Texas A&M University
+- University of Alabama
 - University of California, Berkeley
 - Carrier
 - Jacobs
+- Vigilent
 
 
 

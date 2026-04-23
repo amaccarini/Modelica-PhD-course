@@ -39,7 +39,7 @@ The course has been conducted annually since 2021. Across all editions, 100+ stu
     840: { name: "United States",   list: ["Arizona State University", "Harvard University", "Illinois Institute of Technology", "Lawrence Berkeley National Laboratory", "Louisiana State University", "North Carolina State University", "Pacific Northwest National Laboratory", "Purdue University", "Texas A&M University", "University of Alabama", "University of California, Berkeley", "Carrier", "Jacobs", "Vigilent"] }
   };
 
-  var width = 960, height = 500;
+  var width = 960, height = 600;
   var svg = d3.select("#editions-world-map")
     .attr("viewBox", "0 0 " + width + " " + height)
     .attr("preserveAspectRatio", "xMidYMid meet");

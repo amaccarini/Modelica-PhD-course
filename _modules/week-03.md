@@ -19,13 +19,13 @@ title: Day 3
 11:45-12:45 
 : **Free**{: .label .label-green } **Lunch**
 
-12:45-13:30
-: **Final assignment I**{: .label .label-red } **Session 13**
+12:45-14:00
+: **Final assignment**{: .label .label-red } **Session 13**
 : - Presentation of the final assignment
 : - Starting to work on the assignment in class
 
-13:30-14:30
-: **Guest lecture**{: .label .label-purple } **Session 14 / Using Modelica to Train an AI Engineer (by Adam Nagel)**
+14:00-14:30
+: **Free**{: .label .label-green } **Break**
 
 14:30-16:30 
 : **Guest lecture**{: .label .label-purple } **Session 15 / Platform-Based Design for Energy Systems II (by Matthias Sulzer and Michael Wetter)**

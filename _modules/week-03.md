@@ -28,7 +28,7 @@ title: Day 3
 : **Free**{: .label .label-green } **Break**
 
 14:30-16:30 
-: **Guest lecture**{: .label .label-purple } **Session 15 / Platform-Based Design for Energy Systems II (by Matthias Sulzer and Michael Wetter)**
+: **Guest lecture**{: .label .label-purple } **Session 14 / Platform-Based Design for Energy Systems II (by Matthias Sulzer and Michael Wetter)**
 : - The role of Modelica in Platform-Based Design workflows
 : **Exercise**{: .label .label-red } District heating Modelica template
 

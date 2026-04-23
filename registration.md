@@ -6,7 +6,7 @@ description: Info about registration.
 ---
 
 # ✏️ Pre-registration
-Registration for the 2026 edition of the course will open in spring 2026.
+Registration for the 2026 edition of the course will open in late April or early May 2026.
 
 
 

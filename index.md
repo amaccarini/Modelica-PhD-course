@@ -100,7 +100,7 @@ blockquote.note-title>p:last-child {
 </style>
 
 ### Dates:
-The next edition of the course will take place August 26–28, 2026. Pre-registration will open between late April and early May 2026.
+The next edition of the course will take place August 26–28, 2026. Pre-registration will open around late April / early May 2026.
 
 ### Max. number of participants:
 20

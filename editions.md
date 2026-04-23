@@ -7,7 +7,7 @@ description: Info about previous editions
 
 # 📊 Previous editions
 <br>
-The course has been conducted annually since 2021. Across all editions, 100+ students have attended the course. Below is the list of organizations from which participants have been affiliated.
+The course has been conducted annually since 2021. Across all editions, 100+ students from over 50 organizations worldwide have attended the course. Below is the list of organizations from which participants have been affiliated.
 
 ### Austria
 - Graz University of Technology

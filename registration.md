@@ -9,7 +9,7 @@ description: Info about registration.
 <br>
 If you would like to pre-register to the course, please use the following [form](https://forms.gle/dWhhpmqVxe5TDRhTA).
 
-Pre-registration is open until <strong>June 16, 2025</strong>. If more than 20 people pre-register for the course, the final list of participants will be selected on a "first-come, first-served" basis, with priority given to PhD students working in fields closely related to HVAC systems and district heating. Selected candidates will be notified by email on June 18, 2025.
+Pre-registration is open until <strong>May 22, 2025</strong>. If more than 20 people pre-register for the course, the final list of participants will be selected on a "first-come, first-served" basis, with priority given to PhD students working in fields closely related to HVAC systems and district heating. Selected candidates will be notified by email on June 18, 2025.
 
 The registration for the course does not include provisions for meals and accommodation.
 
